@@ -1,0 +1,3 @@
+# BILYARD CLUB uses Python standard-library modules only.
+# Tkinter and SQLite are included with most standard Python installations.
+# Python 3.10 or newer is recommended.
